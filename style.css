@@ -1,0 +1,22 @@
+.container {
+    height: 100vh;
+}
+
+.jumbotron {
+    padding: 2rem 2rem;
+}
+
+.show {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.credits {
+    padding: 1rem 2rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
